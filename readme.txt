@@ -1,0 +1,1 @@
+To make PNG transparent I used: https://onlinepngtools.com/create-transparent-png

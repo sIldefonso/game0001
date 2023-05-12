@@ -1,0 +1,19 @@
+{
+   "environment": {
+      "width": 800,
+      "height": 600,
+      "title": "Space Quest",
+      "image": "resources//back001.png",
+      "sound": "resources//space.mp3"
+   },
+   "spaceship": {
+      "image": "resources//spaceship.png",
+      "laser": "resources//laser.mp3",
+      "spaceship_pos_x": 350,
+      "spaceship_pos_y": 480,
+      "move_velocity": 10
+   },
+   "enemy": {
+      "image": "resources//enemy001.png"
+   }
+}
